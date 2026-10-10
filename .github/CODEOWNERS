@@ -1,10 +1,7 @@
-# CODEOWNERS - auto-assign reviewers for HemSoft SFL-managed repositories
+# Repository ownership
 # https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 
 * @HemSoft
 
-# SFL-managed automation
 /.github/ @HemSoft
 /.github/workflows/ @HemSoft
-/.sfl/ @HemSoft
-/.sfl/** @HemSoft
